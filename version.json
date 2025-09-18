@@ -1,4 +1,4 @@
 {
-  "latest": "V0.3.1",
-  "bin": "OTAWebUpdater.ino_V0.4.1 "
+  "latest": "V0.4.1",
+  "bin": "OTAWebUpdater.ino V0.4.1 .bin"
 }
